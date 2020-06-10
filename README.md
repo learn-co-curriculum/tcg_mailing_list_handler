@@ -18,7 +18,7 @@ refactors that would make your code easier to reason about, test, and extend?
 3. Build the functionality of the system in ruby. As you go, write tests to
    ensure that you've got the behavior right.
 
-After you finish your solution, get another instructor to review your code and
+After you finish your solution, get a colleague to review your code and
 give you feedback:
 
 - do you have the right data model and relationships?
